@@ -9387,7 +9387,8 @@
   "shortName": "meermix",
   "icon": "meer",
   "chainId": 8132,
-  "networkId": 8132
+  "networkId": 8132,
+  "status": "incubating"
 }, {
   "name": "Qitmeer Network Privnet",
   "chain": "MEER",
@@ -9402,7 +9403,8 @@
   "shortName": "meerpriv",
   "icon": "meer",
   "chainId": 8133,
-  "networkId": 8133
+  "networkId": 8133,
+  "status": "incubating"
 }, {
   "name": "Amana",
   "chain": "MEER",
@@ -9417,7 +9419,8 @@
   "shortName": "amana",
   "icon": "meer",
   "chainId": 8134,
-  "networkId": 8134
+  "networkId": 8134,
+  "status": "incubating"
 }, {
   "name": "Flana",
   "chain": "MEER",
@@ -9432,7 +9435,8 @@
   "shortName": "flana",
   "icon": "meer",
   "chainId": 8135,
-  "networkId": 8135
+  "networkId": 8135,
+  "status": "incubating"
 }, {
   "name": "Mizana",
   "chain": "MEER",
@@ -9447,7 +9451,8 @@
   "shortName": "mizana",
   "icon": "meer",
   "chainId": 8136,
-  "networkId": 8136
+  "networkId": 8136,
+  "status": "incubating"
 }, {
   "name": "BeOne Chain Testnet",
   "chain": "BOC",
@@ -12715,7 +12720,8 @@
   "shortName": "amanatest",
   "icon": "meer",
   "chainId": 81341,
-  "networkId": 81341
+  "networkId": 81341,
+  "status": "incubating"
 }, {
   "name": "Amana Mixnet",
   "chain": "MEER",
@@ -12730,7 +12736,8 @@
   "shortName": "amanamix",
   "icon": "meer",
   "chainId": 81342,
-  "networkId": 81342
+  "networkId": 81342,
+  "status": "incubating"
 }, {
   "name": "Amana Privnet",
   "chain": "MEER",
@@ -12745,7 +12752,8 @@
   "shortName": "amanapriv",
   "icon": "meer",
   "chainId": 81343,
-  "networkId": 81343
+  "networkId": 81343,
+  "status": "incubating"
 }, {
   "name": "Flana Testnet",
   "chain": "MEER",
@@ -12760,7 +12768,8 @@
   "shortName": "flanatest",
   "icon": "meer",
   "chainId": 81351,
-  "networkId": 81351
+  "networkId": 81351,
+  "status": "incubating"
 }, {
   "name": "Flana Mixnet",
   "chain": "MEER",
@@ -12775,7 +12784,8 @@
   "shortName": "flanamix",
   "icon": "meer",
   "chainId": 81352,
-  "networkId": 81352
+  "networkId": 81352,
+  "status": "incubating"
 }, {
   "name": "Flana Privnet",
   "chain": "MEER",
@@ -12790,7 +12800,8 @@
   "shortName": "flanapriv",
   "icon": "meer",
   "chainId": 81353,
-  "networkId": 81353
+  "networkId": 81353,
+  "status": "incubating"
 }, {
   "name": "Mizana Testnet",
   "chain": "MEER",
@@ -12805,7 +12816,8 @@
   "shortName": "mizanatest",
   "icon": "meer",
   "chainId": 81361,
-  "networkId": 81361
+  "networkId": 81361,
+  "status": "incubating"
 }, {
   "name": "Mizana Mixnet",
   "chain": "MEER",
@@ -12820,7 +12832,8 @@
   "shortName": "mizanamix",
   "icon": "meer",
   "chainId": 81362,
-  "networkId": 81362
+  "networkId": 81362,
+  "status": "incubating"
 }, {
   "name": "Mizana Privnet",
   "chain": "MEER",
@@ -12835,7 +12848,8 @@
   "shortName": "mizanapriv",
   "icon": "meer",
   "chainId": 81363,
-  "networkId": 81363
+  "networkId": 81363,
+  "status": "incubating"
 }, {
   "name": "Base Goerli Testnet",
   "chain": "ETH",
