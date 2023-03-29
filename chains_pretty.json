@@ -4369,6 +4369,7 @@
   "icon": "meer",
   "explorers": [{
     "name": "meerscan",
+    "icon": "meer",
     "url": "https://evm.meerscan.com",
     "standard": "none"
   }]
@@ -9368,6 +9369,7 @@
   "icon": "meer",
   "explorers": [{
     "name": "meerscan testnet",
+    "icon": "meer",
     "url": "https://testnet.qng.meerscan.io",
     "standard": "none"
   }]
@@ -9383,6 +9385,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "meermix",
+  "icon": "meer",
   "chainId": 8132,
   "networkId": 8132
 }, {
@@ -9397,6 +9400,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "meerpriv",
+  "icon": "meer",
   "chainId": 8133,
   "networkId": 8133
 }, {
@@ -9411,6 +9415,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "amana",
+  "icon": "meer",
   "chainId": 8134,
   "networkId": 8134
 }, {
@@ -9425,6 +9430,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flana",
+  "icon": "meer",
   "chainId": 8135,
   "networkId": 8135
 }, {
@@ -9439,6 +9445,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "mizana",
+  "icon": "meer",
   "chainId": 8136,
   "networkId": 8136
 }, {
@@ -12706,6 +12713,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "amanatest",
+  "icon": "meer",
   "chainId": 81341,
   "networkId": 81341
 }, {
@@ -12720,6 +12728,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "amanamix",
+  "icon": "meer",
   "chainId": 81342,
   "networkId": 81342
 }, {
@@ -12734,6 +12743,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "amanapriv",
+  "icon": "meer",
   "chainId": 81343,
   "networkId": 81343
 }, {
@@ -12748,6 +12758,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flanatest",
+  "icon": "meer",
   "chainId": 81351,
   "networkId": 81351
 }, {
@@ -12762,6 +12773,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flanamix",
+  "icon": "meer",
   "chainId": 81352,
   "networkId": 81352
 }, {
@@ -12776,6 +12788,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "flanapriv",
+  "icon": "meer",
   "chainId": 81353,
   "networkId": 81353
 }, {
@@ -12790,6 +12803,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "mizanatest",
+  "icon": "meer",
   "chainId": 81361,
   "networkId": 81361
 }, {
@@ -12804,6 +12818,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "mizanamix",
+  "icon": "meer",
   "chainId": 81362,
   "networkId": 81362
 }, {
@@ -12818,6 +12833,7 @@
   },
   "infoURL": "https://github.com/Qitmeer",
   "shortName": "mizanapriv",
+  "icon": "meer",
   "chainId": 81363,
   "networkId": 81363
 }, {
