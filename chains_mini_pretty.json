@@ -6265,7 +6265,7 @@
   "faucets": [],
   "infoURL": "https://github.com/Qitmeer"
 }, {
-  "name": "Qitmeer Network Mixnext",
+  "name": "Qitmeer Network Mixnet",
   "chainId": 8132,
   "shortName": "meermix",
   "networkId": 8132,
@@ -8481,7 +8481,7 @@
   "networkId": 81341,
   "nativeCurrency": {
     "name": "Amana Testnet",
-    "symbol": "MEER-t",
+    "symbol": "MEER-T",
     "decimals": 18
   },
   "rpc": [],
@@ -8494,7 +8494,7 @@
   "networkId": 81342,
   "nativeCurrency": {
     "name": "Amana Mixnet",
-    "symbol": "MEER-m",
+    "symbol": "MEER-M",
     "decimals": 18
   },
   "rpc": [],
@@ -8507,7 +8507,7 @@
   "networkId": 81343,
   "nativeCurrency": {
     "name": "Amana Privnet",
-    "symbol": "MEER-p",
+    "symbol": "MEER-P",
     "decimals": 18
   },
   "rpc": [],
@@ -8520,7 +8520,7 @@
   "networkId": 81351,
   "nativeCurrency": {
     "name": "Flana Testnet",
-    "symbol": "MEER-t",
+    "symbol": "MEER-T",
     "decimals": 18
   },
   "rpc": [],
@@ -8533,7 +8533,7 @@
   "networkId": 81352,
   "nativeCurrency": {
     "name": "Flana Mixnet",
-    "symbol": "MEER-m",
+    "symbol": "MEER-M",
     "decimals": 18
   },
   "rpc": [],
@@ -8546,7 +8546,7 @@
   "networkId": 81353,
   "nativeCurrency": {
     "name": "Flana Privnet",
-    "symbol": "MEER-p",
+    "symbol": "MEER-P",
     "decimals": 18
   },
   "rpc": [],
@@ -8559,7 +8559,7 @@
   "networkId": 81361,
   "nativeCurrency": {
     "name": "Mizana Testnet",
-    "symbol": "MEER-t",
+    "symbol": "MEER-T",
     "decimals": 18
   },
   "rpc": [],
@@ -8572,7 +8572,7 @@
   "networkId": 81362,
   "nativeCurrency": {
     "name": "Mizana Mixnet",
-    "symbol": "MEER-m",
+    "symbol": "MEER-M",
     "decimals": 18
   },
   "rpc": [],
@@ -8585,7 +8585,7 @@
   "networkId": 81363,
   "nativeCurrency": {
     "name": "Mizana Privnet",
-    "symbol": "MEER-p",
+    "symbol": "MEER-P",
     "decimals": 18
   },
   "rpc": [],
