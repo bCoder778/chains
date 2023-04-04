@@ -143,6 +143,14 @@
     "format": "png"
   }]
 }, {
+  "name": "shimmerevm",
+  "icons": [{
+    "url": "ipfs://bafkreibky2sy6qhi6arktayvologkrgu5kudpgdxfkx4uosbvmstz7v4di",
+    "width": 720,
+    "height": 720,
+    "format": "png"
+  }]
+}, {
   "name": "kardiachain",
   "icons": [{
     "url": "ipfs://QmXoHaZXJevc59GuzEgBhwRSH6kio1agMRvL8bD93pARRV",
@@ -548,6 +556,14 @@
     "url": "ipfs://QmV2Nowzo81F6pi2qFcHePA4MwmmdMKBMUzBJUrxcymxx4",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "defioraclemeta",
+  "icons": [{
+    "url": "ipfs://QmYrMRnjQJcNkYq9AvZ2FQ9kzYj9szzP4YDmyNA1ybd8xE",
+    "width": 1000,
+    "height": 1043,
     "format": "png"
   }]
 }, {
@@ -1543,6 +1559,14 @@
     "format": "png"
   }]
 }, {
+  "name": "uptick",
+  "icons": [{
+    "url": "ipfs://QmRGJ6PqYHDTWuUQ6xfnK8S82NzRXiMjTnSGat9qtLuaLP",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "human",
   "icons": [{
     "url": "ipfs://QmT5KKrpNt6duU8QfwaYw3xf4ifTBPtjahpWsMi3gsFmcS",
@@ -2007,12 +2031,28 @@
     "format": "png"
   }]
 }, {
+  "name": "super",
+  "icons": [{
+    "url": "ipfs://QmW4C4QHLMhLeH5MsdVbauMc2Skb4ehzLKU3egLKKoux4D",
+    "width": 130,
+    "height": 130,
+    "format": "png"
+  }]
+}, {
   "name": "sapphire",
   "icons": [{
     "url": "ipfs://Qmd1PGt4cDRjFbh4ihP5QKEd4XQVwN1MkebYKdF56V74pf",
     "width": 48,
     "height": 48,
     "format": "svg"
+  }]
+}, {
+  "name": "taf",
+  "icons": [{
+    "url": "ipfs://bafkreigpxhu7glccsislhjqpl5fnsfmj2io4cy33blhky642uiuyojossy",
+    "width": 400,
+    "height": 400,
+    "format": "png"
   }]
 }, {
   "name": "tipboxcoinIcon",
