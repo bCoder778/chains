@@ -9599,7 +9599,7 @@
     "standard": "none"
   }]
 }, {
-  "name": "Qitmeer Network Mixnext",
+  "name": "Qitmeer Network Mixnet",
   "chain": "MEER",
   "rpc": [],
   "faucets": [],
@@ -12938,7 +12938,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Amana Testnet",
-    "symbol": "MEER-t",
+    "symbol": "MEER-T",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -12954,7 +12954,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Amana Mixnet",
-    "symbol": "MEER-m",
+    "symbol": "MEER-M",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -12970,7 +12970,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Amana Privnet",
-    "symbol": "MEER-p",
+    "symbol": "MEER-P",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -12986,7 +12986,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Flana Testnet",
-    "symbol": "MEER-t",
+    "symbol": "MEER-T",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -13002,7 +13002,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Flana Mixnet",
-    "symbol": "MEER-m",
+    "symbol": "MEER-M",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -13018,7 +13018,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Flana Privnet",
-    "symbol": "MEER-p",
+    "symbol": "MEER-P",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -13034,7 +13034,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Mizana Testnet",
-    "symbol": "MEER-t",
+    "symbol": "MEER-T",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -13050,7 +13050,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Mizana Mixnet",
-    "symbol": "MEER-m",
+    "symbol": "MEER-M",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
@@ -13066,7 +13066,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "Mizana Privnet",
-    "symbol": "MEER-p",
+    "symbol": "MEER-P",
     "decimals": 18
   },
   "infoURL": "https://github.com/Qitmeer",
