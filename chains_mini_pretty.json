@@ -1884,6 +1884,19 @@
   "faucets": [],
   "infoURL": "https://www.okex.com/okc"
 }, {
+  "name": "Neutrinos TestNet",
+  "chainId": 197,
+  "shortName": "NEUTR",
+  "networkId": 197,
+  "nativeCurrency": {
+    "name": "Neutrinos",
+    "symbol": "NEUTR",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.neutrinoschain.com"],
+  "faucets": ["https://neutrinoschain.com/faucet"],
+  "infoURL": "https://docs.neutrinoschain.com"
+}, {
   "name": "BitTorrent Chain Mainnet",
   "chainId": 199,
   "shortName": "BTT",
@@ -3014,6 +3027,19 @@
   "rpc": ["https://evm-dataseed1.meerscan.io", "https://evm-dataseed2.meerscan.io", "https://evm-dataseed3.meerscan.io", "https://evm-dataseed.meerscan.com", "https://evm-dataseed1.meerscan.com", "https://evm-dataseed2.meerscan.com"],
   "faucets": [],
   "infoURL": "https://github.com/Qitmeer"
+}, {
+  "name": "BeOne Chain Mainnet",
+  "chainId": 818,
+  "shortName": "BOC",
+  "networkId": 818,
+  "nativeCurrency": {
+    "name": "BeOne Chain Mainnet",
+    "symbol": "BOC",
+    "decimals": 18
+  },
+  "rpc": ["https://dataseed1.beonechain.com", "https://dataseed2.beonechain.com", "https://dataseed-us1.beonechain.com", "https://dataseed-us2.beonechain.com", "https://dataseed-uk1.beonechain.com", "https://dataseed-uk2.beonechain.com"],
+  "faucets": [],
+  "infoURL": "https://beonechain.com"
 }, {
   "name": "Callisto Mainnet",
   "chainId": 820,

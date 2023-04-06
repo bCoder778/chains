@@ -2719,6 +2719,25 @@
   "explorers": [],
   "status": "incubating"
 }, {
+  "name": "Neutrinos TestNet",
+  "chain": "NEUTR",
+  "rpc": ["https://testnet-rpc.neutrinoschain.com"],
+  "faucets": ["https://neutrinoschain.com/faucet"],
+  "nativeCurrency": {
+    "name": "Neutrinos",
+    "symbol": "NEUTR",
+    "decimals": 18
+  },
+  "infoURL": "https://docs.neutrinoschain.com",
+  "shortName": "NEUTR",
+  "chainId": 197,
+  "networkId": 197,
+  "explorers": [{
+    "name": "blockscout",
+    "url": "https://testnet.neutrinoschain.com",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "BitTorrent Chain Mainnet",
   "chain": "BTTC",
   "rpc": ["https://rpc.bittorrentchain.io/"],
@@ -4447,6 +4466,27 @@
     "icon": "meer",
     "url": "https://evm.meerscan.com",
     "standard": "none"
+  }]
+}, {
+  "name": "BeOne Chain Mainnet",
+  "chain": "BOC",
+  "icon": "beonechain",
+  "rpc": ["https://dataseed1.beonechain.com", "https://dataseed2.beonechain.com", "https://dataseed-us1.beonechain.com", "https://dataseed-us2.beonechain.com", "https://dataseed-uk1.beonechain.com", "https://dataseed-uk2.beonechain.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "BeOne Chain Mainnet",
+    "symbol": "BOC",
+    "decimals": 18
+  },
+  "infoURL": "https://beonechain.com",
+  "shortName": "BOC",
+  "chainId": 818,
+  "networkId": 818,
+  "slip44": 8181,
+  "explorers": [{
+    "name": "BeOne Chain Mainnet",
+    "url": "https://beonescan.com",
+    "standard": "EIP3091"
   }]
 }, {
   "name": "Callisto Mainnet",
@@ -7600,9 +7640,11 @@
   "rpc": ["https://api.aqua.wemixkanvas.io"],
   "faucets": [],
   "infoURL": "https://wemixkanvas.io",
+  "icon": "wemixkanvas",
   "explorers": [{
     "name": "blockscout",
     "url": "https://blockscout.aqua.wemixkanvas.io",
+    "icon": "wemixkanvas",
     "standard": "EIP3091"
   }],
   "parent": {
